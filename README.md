@@ -26,3 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuillermoAldanaAN&show_icons=true&locale=en&layout=compact" alt="guillermoaldana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GuillermoAldanaAN&show_icons=true&locale=en" alt="guillermoaldana" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillermoAldanaAN&" alt="galdana" /></p>
